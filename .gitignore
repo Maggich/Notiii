@@ -1,0 +1,28 @@
+# Секреты и локальное окружение
+.env
+.env.*
+!.env.example
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+.venv/
+venv/
+backend/staticfiles/
+backend/media/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Редакторы и операционная система
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Локальные контейнеры и данные
+postgres-data/
