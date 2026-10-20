@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "students/Khalil/Notes(Adelya).md",
+                "file": "students/Khalil/Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes(Adelya)"
+              "title": "Task"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "students/Khalil/Notes(Adelya).md",
+                "file": "students/Khalil/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "students/Khalil/Notes(Adelya).md",
+                "file": "students/Khalil/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "students/Khalil/Notes(Adelya).md",
+                "file": "students/Khalil/Task.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,11 +203,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a9a0feffb73cf664",
+  "active": "298965a1b213eccf",
   "lastOpenFiles": [
+    "students/Khalil/Notes(Halil).md",
+    "students/Kirill/Task.md",
+    "students/Khalil/Notes(Adelya).md",
     "students/Kirill/Notes(Adelya).md",
     "students/Madiar/Notes(Adelya).md",
-    "students/Khalil/Notes(Adelya).md",
     "students/Arys/Notes(Adelya).md",
     "students/Adelya/Notes(Adelya).md",
     "students/Adelya/Task.md",
