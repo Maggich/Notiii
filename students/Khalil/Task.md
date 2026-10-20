@@ -1,6 +1,6 @@
 # Task — Халил: запрос к API и страница каталога
 
-**Задачи Jira:** [SDT-11 — React-страница и API](https://dzangievmagamet.atlassian.net/browse/SDT-11), [SDT-28 — состояния запроса и быстрый поиск](https://dzangievmagamet.atlassian.net/browse/SDT-28), [SDT-13 — отдельная проверка Promise](https://dzangievmagamet.atlassian.net/browse/SDT-13). API-контракт: [SDT-8](https://dzangievmagamet.atlassian.net/browse/SDT-8). Учебная проверка отдельно: [SDT-18](https://dzangievmagamet.atlassian.net/browse/SDT-18).
+**Задачи Jira:** [SDT-11 — React-страница и API](https://dzangievmagamet.atlassian.net/browse/SDT-11), [SDT-28 — состояния запроса и быстрый поиск](https://dzangievmagamet.atlassian.net/browse/SDT-28), [SDT-37 — типизированный клиент списка](https://dzangievmagamet.atlassian.net/browse/SDT-37), [SDT-13 — отдельная проверка Promise](https://dzangievmagamet.atlassian.net/browse/SDT-13). API-контракт: [SDT-8](https://dzangievmagamet.atlassian.net/browse/SDT-8). Учебная проверка отдельно: [SDT-18](https://dzangievmagamet.atlassian.net/browse/SDT-18).
 
 ## Статус задания
 

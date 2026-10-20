@@ -1,6 +1,6 @@
 # Task — Арыс: Django API и автоматические тесты
 
-**Задачи Jira:** [SDT-9 — реализовать утверждённый API списка](https://dzangievmagamet.atlassian.net/browse/SDT-9), [SDT-10 — план проверок API](https://dzangievmagamet.atlassian.net/browse/SDT-10), [SDT-26 — API-тесты](https://dzangievmagamet.atlassian.net/browse/SDT-26), [SDT-27 — проверить, что тесты ловят поломку](https://dzangievmagamet.atlassian.net/browse/SDT-27). Контракт согласуется в [SDT-8](https://dzangievmagamet.atlassian.net/browse/SDT-8). Учебная проверка отдельно: [SDT-19](https://dzangievmagamet.atlassian.net/browse/SDT-19).
+**Задачи Jira:** [SDT-9 — реализовать утверждённый API списка](https://dzangievmagamet.atlassian.net/browse/SDT-9), [SDT-10 — план проверок API](https://dzangievmagamet.atlassian.net/browse/SDT-10), [SDT-26 — API-тесты](https://dzangievmagamet.atlassian.net/browse/SDT-26), [SDT-27 — проверить, что тесты ловят поломку](https://dzangievmagamet.atlassian.net/browse/SDT-27), [SDT-35 — примеры запросов и ответов](https://dzangievmagamet.atlassian.net/browse/SDT-35), [SDT-36 — таблица тест-сценариев](https://dzangievmagamet.atlassian.net/browse/SDT-36). Контракт согласуется в [SDT-8](https://dzangievmagamet.atlassian.net/browse/SDT-8). Учебная проверка отдельно: [SDT-19](https://dzangievmagamet.atlassian.net/browse/SDT-19).
 
 ## Статус задания
 

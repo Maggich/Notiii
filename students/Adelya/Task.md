@@ -1,6 +1,6 @@
 # Task — Аделя: карточка и сетка каталога
 
-**Задачи Jira:** [SDT-12 — адаптивные карточки](https://dzangievmagamet.atlassian.net/browse/SDT-12), [SDT-29 — узкий экран и клавиатура](https://dzangievmagamet.atlassian.net/browse/SDT-29), [SDT-14 — отдельная проверка Promise](https://dzangievmagamet.atlassian.net/browse/SDT-14). API-контракт: [SDT-8](https://dzangievmagamet.atlassian.net/browse/SDT-8). Учебная проверка отдельно: [SDT-20](https://dzangievmagamet.atlassian.net/browse/SDT-20).
+**Задачи Jira:** [SDT-12 — адаптивные карточки](https://dzangievmagamet.atlassian.net/browse/SDT-12), [SDT-29 — узкий экран и клавиатура](https://dzangievmagamet.atlassian.net/browse/SDT-29), [SDT-38 — карточка и сетка произведений](https://dzangievmagamet.atlassian.net/browse/SDT-38), [SDT-14 — отдельная проверка Promise](https://dzangievmagamet.atlassian.net/browse/SDT-14). API-контракт: [SDT-8](https://dzangievmagamet.atlassian.net/browse/SDT-8). Учебная проверка отдельно: [SDT-20](https://dzangievmagamet.atlassian.net/browse/SDT-20).
 
 ## Статус задания
 
