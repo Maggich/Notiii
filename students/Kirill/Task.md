@@ -1,6 +1,6 @@
 # Task — Кирилл: запуск проекта и помощь команде
 
-**Задачи Jira:** [SDT-16 — общий запуск Docker](https://dzangievmagamet.atlassian.net/browse/SDT-16), [SDT-31 — общая проверка](https://dzangievmagamet.atlassian.net/browse/SDT-31). Кирилл помогает с DevOps и сопровождением, подтверждёнными преподавателем; он не назначается исполнителем автоматически, пока Jira-аккаунт не сопоставлен.
+**Задачи Jira:** [SDT-16 — общий запуск Docker](https://dzangievmagamet.atlassian.net/browse/SDT-16), [SDT-31 — общая проверка](https://dzangievmagamet.atlassian.net/browse/SDT-31), [SDT-39 — команды запуска Docker](https://dzangievmagamet.atlassian.net/browse/SDT-39). Кирилл помогает с DevOps и сопровождением, подтверждёнными преподавателем; он не назначается исполнителем автоматически, пока Jira-аккаунт не сопоставлен.
 
 ## Статус задания
 
